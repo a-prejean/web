@@ -1,0 +1,16 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore files related to API keys
+.env
+
+# SASS / SCSS folder
+scss
+
+# SCSS map file for generated css
+dist/css/main.css.map
+
+app.js
